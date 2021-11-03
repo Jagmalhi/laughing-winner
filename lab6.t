@@ -1,4 +1,4 @@
-tranqc lab6.t 
+
 fun init() {
       var x, y, z 
       x : 5
